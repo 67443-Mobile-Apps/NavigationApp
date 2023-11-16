@@ -30,6 +30,7 @@ struct ContentView: View {
             DetailView(number: i, path: $path)
           }
       }
+      
     }
 }
 
